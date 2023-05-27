@@ -1,0 +1,21 @@
+.comment {
+    margin-bottom: 20px;
+}
+
+.comment p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+
+
+.reply {
+    margin-left: 20px;
+}
+
+.reply p {
+    font-size: 14px;
+    line-height: 1.3;
+    margin-bottom: 5px;
+}
